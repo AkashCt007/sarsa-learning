@@ -34,7 +34,7 @@ The objective is to train an optimal control policy in an unknown discrete Marko
 ### Name: AKASH CT
 ### Register Number: 212224240007
 
-```
+```py
 def sarsa(env,
           gamma=1.0,
           init_alpha=0.5,
